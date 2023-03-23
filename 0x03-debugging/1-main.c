@@ -8,18 +8,16 @@
 int main(void)
 {
 int i;
-
-print("infinite loop incoming :(\n");
+printf("infinite loop incoming :(\n");
 
 i = 0;
-
 /*
-* while (i < 10)
+*while (i < 10)
 *{
 *putchar(i);
 *}
-
-printf("Infinite loop avoided! \\o/\n");
+*/
+printf("infinte loop avoided! \\o/\n");
 
 return (0);
 }
