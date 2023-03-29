@@ -1,4 +1,9 @@
 #include <stdio.h>
+/**
+ * pointer - use of pointers without modification
+ * @n: integer
+ * Return: 0
+ */
 
 int main(void)
 {
