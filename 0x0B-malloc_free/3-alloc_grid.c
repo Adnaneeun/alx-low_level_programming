@@ -9,9 +9,7 @@
  * Return: pointer to the created matrix (Success)
  * or NULL (Error)
  */
-
 int **alloc_grid(int width, int height)
-
 {
 	int **array;
 	int i, j;
@@ -44,3 +42,4 @@ int **alloc_grid(int width, int height)
 	}
 	return (array);
 }
+
